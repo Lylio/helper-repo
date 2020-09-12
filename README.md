@@ -1,4 +1,4 @@
-![](https://github.com/Lylio/image-repo/blob/master/img/logos/var-logos.png?raw=true)
+![](https://github.com/Lylio/image-repo/blob/master/logos/var-logos.png?raw=true)
 # Image Repo
 
 ### Description
