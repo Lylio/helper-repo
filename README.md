@@ -2,4 +2,4 @@
 # Image Library
 
 ### Description
-A collection of logos and image files for the purposes of README files and solution designs.
+A collection of logos and image files for the purposes of README files.
