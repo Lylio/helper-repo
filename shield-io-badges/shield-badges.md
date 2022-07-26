@@ -14,9 +14,15 @@ For example, it's in simple icons that you search for Spring Boot, Java or Docke
 
 
 
+DEV ICONS
+
+https://github.com/devicons/devicon/
+
+
+
 -------
 
-<img src="https://img.shields.io/badge/-Spring%20Boot-white.svg?style=for-the-badge&logo=SPRING%20BOOT&logoColor=#6DB33F" alt="Spring Boot" style="zoom:150%"/>
+<img src="https://img.shields.io/badge/-Spring%20Boot-white.svg?style=for-the-badge&logo=SPRING%20BOOT&logoColor=#6DB33F" alt="Spring Boot" style="zoom:125%"/>
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
@@ -39,3 +45,45 @@ For example, it's in simple icons that you search for Spring Boot, Java or Docke
 ![javascript](https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145)
 
 ![mongodb](https://camo.githubusercontent.com/72e92f69f36703548704a9eeda2a9889c2756b5e08f01a9aec6e658c148d014e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
+
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=yellow)
+
+<img src="https://img.shields.io/badge/-python-#3776AB.svg?style=for-the-badge&logo=python&logoColor=yellow" alt="Spring Boot" style="zoom:125%"/>
+
+
+
+| ✨                      |                                                              |
+| ---------------------- | ------------------------------------------------------------ |
+| Tech Stack             | ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=yellow) |
+| Repo Size              | ![Repo Size](https://img.shields.io/github/repo-size/lylio/python-library?style=for-the-badge) |
+| GitHub Commit Activity | ![Github Commit Activity](https://img.shields.io/github/commit-activity/m/lylio/python-library?style=for-the-badge) |
+
+
+
+
+
+
+
+```html
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
+```
+
+
+
+```html
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+```
